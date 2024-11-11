@@ -6,7 +6,7 @@ This project, "Burglary-Detection-System," uses a pose detection model to identi
 
 2. JavaScript Components
    - Libraries Used:
-     - TensorFlow.js and **Teachable Machine Pose Library**: These provide tools for loading a pre-trained model, running the webcam feed, and performing real-time pose estimation and prediction.
+     - TensorFlow.js and Teachable Machine Pose Library: These provide tools for loading a pre-trained model, running the webcam feed, and performing real-time pose estimation and prediction.
    - Model URL: The model is hosted on Teachable Machine. This pre-trained model contains classes that represent normal and suspicious activities.
 
 3. JavaScript Functions Explained
